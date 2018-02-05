@@ -1,0 +1,156 @@
+body {
+    background-color: #000000;
+}
+
+header {
+    min-width: 400px;
+}
+
+nav.header {
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    overflow: hidden;
+    border: 0px;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: #cccccc;
+    border-radius: 0px;
+}
+
+div.400 {
+    min-width: 600px;
+}
+
+footer {
+    background-color: #777777;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    overflow: hidden;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color: #4aaaa5;
+    text-align: center;
+    margin-top: 200px;
+}
+
+div.center {
+    position: relative;
+    margin: 0 auto;
+    left: 50%;
+    right: 50%;
+}
+
+
+div.wrapper {
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    min-width:300px;
+}
+
+div.line {
+    height: 3px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #cccccc;
+    margin-bottom: 20px;
+}
+
+div.main {
+    float: left;
+    background-color: #ffffff;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #dddddd;
+    margin-bottom: 20px;
+}
+
+div.side {
+    float: right;
+    background-color: #ffffff;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #dddddd;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+div.table {
+    display: table;
+    left: 50%;
+    right: -50%;
+    margin: 0 auto;
+}
+
+img.pic {
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    max-width: 400px;
+    
+}
+
+p.pic {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+}
+
+p.foot {
+    color: #CCCCCC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    height: 100%;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2, h3 {
+    color: #4aaaa5;
+    text-align: center;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+    float: left;
+    left: 0px;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+Ul {
+    list-style: none;
+    padding: 0px;
+}
+
+ul.right {
+    left: 0px;
+}
+
+li {
+    display: inline-block;
+}
+
+div.container-fluid {
+    padding-left: 20px;
+}
