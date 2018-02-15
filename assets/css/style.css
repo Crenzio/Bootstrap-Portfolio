@@ -219,3 +219,8 @@ input.button {
     border: 0;
     padding: 20px;
 }
+
+a {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
