@@ -35,7 +35,6 @@ footer {
     border-top-width: 10px;
     border-top-color: #4aaaa5;
     text-align: center;
-    margin-top: 200px;
 }
 
 div.center {
@@ -69,7 +68,6 @@ div.main {
     border-style: solid;
     border-width: 3px;
     border-color: #dddddd;
-    margin-bottom: 20px;
 }
 
 div.side {
